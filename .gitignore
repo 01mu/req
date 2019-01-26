@@ -1,2 +1,3 @@
-cookies
-res
+src/*.pyc
+src/cookies
+src/res
