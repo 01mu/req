@@ -166,7 +166,7 @@ class base:
         print '<route> url <url> | set route url'
         print '<route> name <name> | set route name'
         print '<route> type <type> | set route type'
-        print '<route> type <group> | set route group'
+        print '<route> group <group> | set route group'
         print '<route> header {...} | set route header, \'{}\' to clear'
         print '<route> params {...} | set route params, \'{}\' to clear\n'
         print 'cookies show <group> | show cookies for group'
